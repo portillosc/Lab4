@@ -16,9 +16,6 @@ public class Lab4{
       int[] b5 = sort(a5);
       int[] b6 = sort(a6);
       
-      for(int i: b5){
-         System.out.print(i);
-      }
    }
    public static int[] sort(int[] a){
       try{
