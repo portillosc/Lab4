@@ -4,4 +4,12 @@ Questions:
    What does the output of git status mean?
    What github account does this upload from?
 
-We didn't really discuss any questions about this assignment
+Discussion:
+   What objects: integer
+   what size: any
+   how to sort by: descending
+   will it always be full: yes
+   what algorithm is required: -
+   is there an efficiency constraint: no
+   output? no
+   return: new array in sorted order
